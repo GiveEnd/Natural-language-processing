@@ -55,6 +55,33 @@
 <img width="559" height="605" alt="image" src="https://github.com/user-attachments/assets/c618bc6c-25df-455e-982d-ebb1b210f086" />
 <img width="1683" height="683" alt="image" src="https://github.com/user-attachments/assets/3db62ad5-1801-4f18-b894-0f5109d460b5" />
 
+**Задача:**
+  BERT для анализа настроения.
+  
+  В работе используется датасет IMDB Movie Reviews, содержащий текстовые отзывы о фильмах с положительными и отрицательными оценками. Тексты преобразуются в числовое представление с помощью токенизатора BERT, после чего предобученная языковая модель BERT (bert-base-uncased) применяется для извлечения контекстных признаков. На их основе обучается нейронная сеть, классифицирующая отзывы как положительные или отрицательные, после чего проводится оценка качества модели.
+  
+**Код:**
+
+<img width="639" height="569" alt="image" src="https://github.com/user-attachments/assets/e6e90e1c-ed67-4c98-8546-0985f9d627e6" />
+<img width="1443" height="806" alt="image" src="https://github.com/user-attachments/assets/c98f479c-465f-4de2-ba5d-2d39a41c19af"/>
+<img width="555" height="697" alt="image" src="https://github.com/user-attachments/assets/54b95d81-31a2-4f7c-ac8f-96c2b875e40e" />
+<img width="603" height="717" alt="image" src="https://github.com/user-attachments/assets/cd9dc5e8-062d-40b1-9e86-e70d709ece7d" />
+<img width="560" height="625" alt="image" src="https://github.com/user-attachments/assets/1044cc0d-d0aa-48b6-8a4c-084a53fcc307" />
+<img width="658" height="679" alt="image" src="https://github.com/user-attachments/assets/c52f3b23-d8da-4182-b0de-de40256e7396" />
+<img width="491" height="681" alt="image" src="https://github.com/user-attachments/assets/36353945-7ada-48e0-9a63-7cad530f0b96" /><br/>
+<img width="478" height="767" alt="image" src="https://github.com/user-attachments/assets/0cacbea7-91ca-4054-99d7-8cf5a4eb76a6" /><br/>
+<img width="486" height="782" alt="image" src="https://github.com/user-attachments/assets/f0f61253-c7b7-41e3-9ae2-cad43497689a" /><br/>
+<img width="853" height="272" alt="image" src="https://github.com/user-attachments/assets/f3ba70a8-136f-47d8-b2ea-6492a77b5fbc" />
+
+
+
+
+
+
+
+
+
+
 
 
 
