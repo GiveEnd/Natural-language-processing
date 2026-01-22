@@ -31,6 +31,34 @@
 <img width="436" height="545" alt="image" src="https://github.com/user-attachments/assets/d260eb76-59dc-4de5-b4ac-02482e1938e8" />
 <img width="1189" height="590" alt="image" src="https://github.com/user-attachments/assets/6c9a8e6b-e5de-46da-8217-29c64dca1be6" />
 
+**Задача:**
+  Определение частей речи в тексте.
+  
+  В работе используется библиотека pymorphy3, реализующая алгоритмы морфологического анализа русского языка. В результате морфологического анализа было установлено, что в тексте преобладают существительные.
+  
+**Код:**
+
+<img width="1526" height="551" alt="image" src="https://github.com/user-attachments/assets/40c04e8d-8dde-457d-bae3-1c18678447ce" />
+<img width="1125" height="457" alt="image" src="https://github.com/user-attachments/assets/d35e499b-682d-4365-9adf-dff1a1d8a28d" />
+<img width="312" height="615" alt="image" src="https://github.com/user-attachments/assets/33922fad-8971-4f75-be2c-e11f9ad6b220" />
+<img width="870" height="634" alt="image" src="https://github.com/user-attachments/assets/711dc63e-8f47-48cd-a497-fb9ef8713c80" />
+
+**Задача:**
+  Грамматический разбор текста.
+  
+  В данной работе выполнен грамматический разбор русского текста с использованием библиотеки spacy и модели ru_core_news_sm. Разбор включает: морфологический анализ (часть речи, лемма, грамматические признаки), синтаксический анализ (зависимости между словами), визуализацию синтаксического дерева.
+  
+**Код:**
+
+<img width="1538" height="704" alt="image" src="https://github.com/user-attachments/assets/0d8ae6a7-ef36-402f-9a38-70095a6a812f" />
+<img width="826" height="463" alt="image" src="https://github.com/user-attachments/assets/69208312-2605-4609-85f6-658b2c8ed575" />
+<img width="559" height="605" alt="image" src="https://github.com/user-attachments/assets/c618bc6c-25df-455e-982d-ebb1b210f086" />
+<img width="1683" height="683" alt="image" src="https://github.com/user-attachments/assets/3db62ad5-1801-4f18-b894-0f5109d460b5" />
+
+
+
+
+
 
 
 
